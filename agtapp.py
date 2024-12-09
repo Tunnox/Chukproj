@@ -11,7 +11,7 @@ def get_db_connection():
         user='ADMIN', 
         password='vUcW96AC.gd.d4y', 
         dsn='a1z2qbbh602iu73y_medium', 
-        config_dir="https://github.com/Tunnox/orcl.git",
+        config_dir="https://github.com/Tunnox/orcl.git/tnsnames.ora",
         wallet_location="https://github.com/Tunnox/orcl.git", 
         wallet_password='gHpt468/Chuk.VGA.Lli.ps'
     )
